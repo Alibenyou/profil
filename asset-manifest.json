@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Alibenyou/profil.git/static/css/main.0cf0012d.css",
-    "main.js": "/Alibenyou/profil.git/static/js/main.505df948.js",
-    "static/js/453.2f6f0795.chunk.js": "/Alibenyou/profil.git/static/js/453.2f6f0795.chunk.js",
-    "service-worker.js": "/Alibenyou/profil.git/service-worker.js",
-    "index.html": "/Alibenyou/profil.git/index.html",
-    "main.0cf0012d.css.map": "/Alibenyou/profil.git/static/css/main.0cf0012d.css.map",
-    "main.505df948.js.map": "/Alibenyou/profil.git/static/js/main.505df948.js.map",
-    "453.2f6f0795.chunk.js.map": "/Alibenyou/profil.git/static/js/453.2f6f0795.chunk.js.map"
+    "main.css": "/profil/static/css/main.0cf0012d.css",
+    "main.js": "/profil/static/js/main.93c007cb.js",
+    "static/js/453.2f6f0795.chunk.js": "/profil/static/js/453.2f6f0795.chunk.js",
+    "service-worker.js": "/profil/service-worker.js",
+    "index.html": "/profil/index.html",
+    "main.0cf0012d.css.map": "/profil/static/css/main.0cf0012d.css.map",
+    "main.93c007cb.js.map": "/profil/static/js/main.93c007cb.js.map",
+    "453.2f6f0795.chunk.js.map": "/profil/static/js/453.2f6f0795.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0cf0012d.css",
-    "static/js/main.505df948.js"
+    "static/js/main.93c007cb.js"
   ]
 }
